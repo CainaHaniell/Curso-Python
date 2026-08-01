@@ -25,7 +25,6 @@ O conteúdo é baseado no curso **Curso de Python 3 do básico ao avançado - co
 
 O repositório será organizado conforme o progresso no curso, incluindo os seguintes módulos:
 
-- Python + VS Code
 - Lógica de Programação
 - Funções
 - Dicionários
