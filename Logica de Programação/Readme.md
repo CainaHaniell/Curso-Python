@@ -49,8 +49,10 @@ Nesta etapa inicial, os estudos estão focados nos conceitos básicos da linguag
 
 ## 📂 Organização
 
-Os arquivos estão organizados de forma simples, seguindo a ordem das aulas e exercícios.  
-Cada arquivo representa um pequeno exemplo ou exercício prático para fixar os conceitos iniciais.
+Os arquivos estão organizados de acordo com a sequência dos estudos, reunindo exemplos e exercícios práticos para fixação dos conceitos.
+
+
+> **Observação:** Este repositório reúne apenas as aulas, exercícios e exemplos que considero relevantes para consulta futura. Alguns conteúdos muito simples ou repetitivos foram incorporados a outros arquivos ou não foram adicionados individualmente.
 
 ---
 
