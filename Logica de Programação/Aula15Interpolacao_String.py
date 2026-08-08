@@ -3,7 +3,6 @@ Interpolação básica de String
 s - string
 d e i - int
 f - float
-x e x - Hexadecimal (ABCDEF0123456789)
 """
 nome = 'Caina'
 preco = 100.233
