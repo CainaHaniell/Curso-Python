@@ -4,11 +4,16 @@ descrito, exiba a saudação apropriada. EX.:
 Bom dia 0-11, Boa tarde 12-17, Boa noite 18-23
 """
 
-hora = int(input('Digite a hora: '))
-
-if hora >= 0 and hora <=11:
-    print('Bom dia')
-elif hora >= 12 and hora <= 17:
-    print('Boa tarde')
-else:
-    print('Boa noite')
+hora = (input('Digite a hora: '))
+try:
+    hora_int = int(hora)
+    if hora_int >= 0 and hora_int <=11:
+        print('Bom dia')
+    elif hora_int >= 12 and hora_int <= 17:
+        print('Boa tarde')
+    elif hora_int >= 17:
+        print('Boa noite')
+    else:
+     print('Nao conheco')
+except:
+   print('Não conheço essa hora')
