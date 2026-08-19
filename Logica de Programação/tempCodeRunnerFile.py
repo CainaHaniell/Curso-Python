@@ -1,0 +1,1 @@
+caixa_saldo += deposito_feito
