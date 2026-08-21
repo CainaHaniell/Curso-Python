@@ -6,8 +6,8 @@ Aqui estão os primeiros passos com Python, entendendo como o código funciona e
 **📅 Registro de Estudo:**
 * **Início:** 07/08/2026
 * **Conclusão:** Em andamento
-* **Aulas Abordadas:** 0 a 24
-* **Exercícios / Desafios:** 0 a 18
+* **Aulas Abordadas:** 0 a 26
+* **Exercícios / Desafios:** 0 a 25
 
 ---
 
